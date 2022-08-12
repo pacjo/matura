@@ -1,0 +1,6 @@
+# compilation results
+*.exe
+*.o
+
+# VS code directory
+.vscode
