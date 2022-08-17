@@ -1,4 +1,4 @@
-[matura cke](https://arkusze.pl/maturalne/informatyka-2022-maj-matura-rozszerzona.pdf)
+[matura arkusze.pl](https://arkusze.pl/maturalne/informatyka-2022-maj-matura-rozszerzona.pdf)
 
 # zad 1
 ## 1.1
