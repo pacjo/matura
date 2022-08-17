@@ -9,5 +9,8 @@ My matura practise
 
 ### 05 2022 - medium
 - [overview](informatyka/202205/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
 
+### 05 2021 - medium well
+- [overview](informatyka/202105/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
