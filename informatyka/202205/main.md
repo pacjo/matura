@@ -68,6 +68,6 @@ nie zrobione!!
 
 ## zad 6
 # 6.1 - 6.4
-[plik access](cz2/6/systemKontroliDostepu.accdb)
+[plik ms access](cz2/6/systemKontroliDostepu.accdb)
 
-6.4 nie zrobione!!
+6.4 nie zrobione!! - null
