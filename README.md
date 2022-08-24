@@ -1,9 +1,11 @@
 # matura
 My matura practise 
 
+
 ## Rating system
 > "one photo is worth a thousand words"
 ![rating system categories](non-educational/rating_system.png)
+
 
 ## Matury
 
@@ -16,6 +18,12 @@ My matura practise
 - [overview](informatyka/202105/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
-### Polski - rare
+### Matematyka
+#### 06 2020 - medium
+- [overview](matematyka/062020/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+
+### Polski
+#### 05 2022 - rare
 - [overview](polski/202205/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
