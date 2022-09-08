@@ -1,7 +1,41 @@
 [matura arkusze.pl](https://arkusze.pl/matura-informatyka-2015-maj-poziom-rozszerzony/)
 
 # zad 1
-pendrive!!!
+## 1.1
+a 1
+b 2
+c 3
+d 3
+
+
+## 1.2
+### strategia A
+9 10 - 1
+10 13 - 3
+13 17 - 4
+17 18 - 1
+
+wynik: (13 17), (17 18) -- 2
+dowód: (9 10), (10 13), (13 17), (17 18) -- 4
+
+### strategia B
+9 12 - 3
+12 15 - 3
+15 17 - 2
+17 18 - 1
+
+wynik: (17 18) -- 1
+dowód: (9 12), (12 15), (15 17), (17 18) -- 4
+
+
+## strategia C
+9 14 - 5
+10 11 - 1
+11 12 - 1
+12 13 - 1
+
+wynik: (9 14) -- 1
+dowód: (10 11), (11 12), (12 13) -- 3
 
 
 
