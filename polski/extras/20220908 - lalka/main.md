@@ -76,9 +76,9 @@ rodzaj orzeczenia: proste
 
 
 ## zad 15
-nazwa wyazu złożonego: ??
+rodzaj wyazu złożonego: złożenie
 podstawy słowotwórcze: powieść, pisarz
-formant: 'o'
+formant: '-o-'
 rodzaj formantu: wrostek
 
 
@@ -87,7 +87,7 @@ rodzaj formantu: wrostek
 ## zad 1
 1. miłość Wokulskiego i Izabeli - Wokulski, Izabela
 2. spór o lalkę - baronowa Krzeszowska i Helena Stawska
-3. 
+3. konflikt warstw społecznych - arystokracja, mieszczństwo
 4. 
 5. 
 6. 
