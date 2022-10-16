@@ -9,6 +9,10 @@
 # VS code directory
 .vscode
 
+# Syncthing files
+.stfolder
+.stignore
+
 
 # Temporary
 # polski/
