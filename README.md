@@ -18,6 +18,10 @@ My matura practise
 ## Matury
 
 ### Informatyka
+#### 06 2022 - medium
+- [overview](informatyka/202206/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/17)
+
 #### 05 2022 - medium
 - [overview](informatyka/202205/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
