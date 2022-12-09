@@ -26,7 +26,11 @@ My matura practise
 - [overview](informatyka/202205/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
 
-#### 05 2021 - medium well
+#### 05 2021 - medium
+- [overview](informatyka/202105/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+
+#### 07 2020 - medium well
 - [overview](informatyka/202105/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
