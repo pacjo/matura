@@ -18,7 +18,7 @@ My matura practise
 ## Matury
 
 ### Informatyka
-#### arkusz przykladowy 2023 - medium well
+#### arkusz przykładowy 2023 - medium well
 - [overview](informatyka/extras/arkusz_przykladowy-2023/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
