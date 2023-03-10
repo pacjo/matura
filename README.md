@@ -58,6 +58,9 @@ My matura practise
 
 
 ### Polski
+#### arkusz pokazowy Operon (Arkusz 1) - well done
+- [overview](polski/pokazowy-operon-1/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 #### 05 2022 - rare
 - [overview](polski/202205/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
