@@ -6,13 +6,13 @@
 ~$*
 *.laccdb
 
-# VS code directory
+# VS code / codium
 .vscode
+*.code-workspace
 
 # Syncthing files
 .stfolder
 .stignore
-
 
 # Temporary
 # polski/
