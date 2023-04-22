@@ -42,9 +42,9 @@ My matura practise
 - [overview](informatyka/202103/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
-#### 07 2020 - medium well
+#### 07 2020 - medium rare
 - [overview](informatyka/202007/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
 
 #### 06 2020 - well done
 - [overview](informatyka/202006/)
