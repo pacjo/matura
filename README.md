@@ -46,6 +46,10 @@ My matura practise
 - [overview](informatyka/202105/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
+#### 06 2020 - well done
+- [overview](informatyka/202006/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+
 #### 05 2015 - rare
 - [overview](informatyka/201505/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
