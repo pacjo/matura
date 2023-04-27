@@ -14,6 +14,8 @@ My matura practise
 > "one photo is worth a thousand words"
 ![rating system categories](non-educational/rating_system.png)
 
+also progress bars below sometimes show the completion percentage and sometimes the score. It depends on my mood, and is nowhere near objective.
+
 
 ## Matury
 ### Informatyka
