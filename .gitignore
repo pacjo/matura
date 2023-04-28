@@ -5,6 +5,7 @@
 # MS temp files
 ~$*
 *.laccdb
+*.tmp
 
 # VS code / codium
 .vscode
