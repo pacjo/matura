@@ -75,7 +75,7 @@ also progress bars below sometimes show the completion percentage and sometimes 
 - [overview](polski/pokazowy-operon-2/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
 
-#### arkusz pokazowy OKE (Arkusz 9) - medium well
+#### arkusz pokazowy GWO (Arkusz 9) - medium well
 - [overview](polski/pokazowy-oke-9/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 
