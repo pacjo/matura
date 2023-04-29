@@ -32,6 +32,7 @@ Przemysław Mućko i Teresa Olszak zgodnie zwracają uwagę na to jak ważna jes
 # zad 7
 ## 7.1
 funkcja 1: organizowanie i wyjaśnianie sposoby działania świata, przyrody
+
 funkcja 2: uczestniczenie w towrzeniu więzi w danej społeczności, poprzez wyjaśnianie jej pochodzenia i przeszłości
 
 ## 7.2
@@ -86,8 +87,9 @@ W opowiadaniu *Gloria victis* zestawienie postaci Traugutta z Leonidasem służy
 
 
 # zad 14
-~~typ stylizacji: **gwarowa**
-funkcja: przybliżenie czytelnikowi realiów i atmosfery epoki, nadanie głębszego charakteru stworzonym postaciom~~
+~~typ stylizacji: **gwarowa**~~
+
+~~funkcja: przybliżenie czytelnikowi realiów i atmosfery epoki, nadanie głębszego charakteru stworzonym postaciom~~
 
 oni by bardziej chcieli archaizację
 
