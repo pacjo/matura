@@ -64,16 +64,6 @@ also progress bars below sometimes show the completion percentage and sometimes 
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
 
 
-### Matematyka
-#### 05 20222 - medium well
-- [overview](matematyka/202205/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85)
-
-#### 06 2020 - medium
-- [overview](matematyka/202006/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
-
-
 ### Polski
 #### arkusz pokazowy Operon (Arkusz 1) - well done
 - [overview](polski/pokazowy-operon-1/)
