@@ -95,10 +95,6 @@ also progress bars below sometimes show the completion percentage and sometimes 
 - [overview](polski/pokazowy-oke-10/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
 
-#### 05 2022 - rare
-- [overview](polski/202205/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
-
 
 ### Angielski
 #### arkusz pokazowy CKE - well done
