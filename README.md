@@ -59,6 +59,10 @@ also progress bars below sometimes show the completion percentage and sometimes 
 - [overview](informatyka/201906/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
 
+#### 05 2019 - well done
+- [overview](informatyka/201905/)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95)
+
 #### 05 2015 - rare
 - [overview](informatyka/201505/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20)
