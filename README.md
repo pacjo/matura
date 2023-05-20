@@ -29,7 +29,7 @@ also progress bars below sometimes show the completion percentage and sometimes 
 
 #### 05 2022 - medium
 - [overview](informatyka/202205/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
 #### 06 2021 - well done
 - [overview](informatyka/202106/)
