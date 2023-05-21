@@ -35,9 +35,9 @@ also progress bars below sometimes show the completion percentage and sometimes 
 - [overview](informatyka/202106/)
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
 
-#### 05 2021 - medium
+#### 05 2021 - well done
 - [overview](informatyka/202105/)
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50)
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95  )
 
 #### 03 2021 - well done
 - [overview](informatyka/202103/)
